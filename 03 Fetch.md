@@ -19,6 +19,7 @@
 >     - data uit API’s 
 
 </section>
+
 ## Fetch uitleg
 
 - `Fetch` is `async` dat betekent:
