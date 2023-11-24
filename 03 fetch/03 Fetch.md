@@ -19,9 +19,7 @@
 >     - data uit API’s 
 
 
-
-[fetch]("03 fetch2.md")
-
+<a href="03 fetch2.md" >Next</a>
     
 
 
