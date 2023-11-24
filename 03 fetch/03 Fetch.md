@@ -19,7 +19,5 @@
 >     - data uit API’s 
 
 
-<a href="03 fetch2.md" >Next</a>
+<a href="03 Fetch2.md" >Next</a>
     
-
-
