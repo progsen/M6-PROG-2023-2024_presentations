@@ -16,7 +16,7 @@
 >     - Json bestanden
 >     - data uit API’s 
 
-
+<div style="page-break-after: always"></div>
 ## Fetch uitleg
 
 - `Fetch` is `async` dat betekent:
