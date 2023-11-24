@@ -1,3 +1,5 @@
+<section height="100vh">
+
 ## Fetch
 
 - `Fetch` is een `api` in javascript om ergens informatie vandaan te halen.
@@ -16,7 +18,7 @@
 >     - Json bestanden
 >     - data uit API’s 
 
-<div style="page-break-after: always"></div>
+</section>
 ## Fetch uitleg
 
 - `Fetch` is `async` dat betekent:
