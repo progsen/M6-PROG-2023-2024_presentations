@@ -1,4 +1,4 @@
-<section style="height:100vh">
+
 
 ## Fetch
 
@@ -18,8 +18,8 @@
 >     - Json bestanden
 >     - data uit API’s 
 
-</section>
-<section style="height:100vh">
+
+
     
 ## Fetch uitleg
 
@@ -41,8 +41,8 @@ fetch("URL")
 > - tussen de `()` van `fetch` komt je `url` als `string`
 >   - bijvoorbeeld: `"get.html"`
 
-</section>
-<section style="height:100vh">
+
+
 ## STEL
 
 - we hebben dus die `get.html`
@@ -67,8 +67,8 @@ fetch("URL")
 - In je Debugger:  
     > ![](img/gethtmlresponse.PNG)
 
-</section>
-<section style="height:100vh">
+
+
 ## hoe werkt de .then()?
 
 > - `.then` is een `function`
@@ -95,8 +95,8 @@ function (response)
 }
 ```
 
-</section>
-<section style="height:100vh">
+
+
 ## En de data dan?
 
 - Nu zien we alleen de HTTPResponse
@@ -120,8 +120,8 @@ fetch("get.html")
 - In je Debugger zie je de HTML als text verschijnen:  
     > ![](img/onzehtml.PNG)
 
-</section>
-<section style="height:100vh">
+
+
 ## PHP
 
 - je kan ook tegen PHP praten:
@@ -151,16 +151,16 @@ fetch("get.php")
 - en krijg je:
     > ![](img/fetchphp.PNG)
 
-</section>
-<section style="height:100vh">
+
+
 ## Waar kan ik er meer over lezen?
 
 > De fetch API staat goed beschreven op deze pagina:
 > - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
 
-</section>
-<section style="height:100vh">
+
+
 ## POST & Fetch options
 
 - vaak gebruiken we `fetch` om een `HTTP POST`
@@ -182,8 +182,8 @@ fetch("post.php",options)
 
  ```
 
-</section>
-<section style="height:100vh">
+
+
 ## POST
 
 - wordt gebruikt om veel data door te geven bijvoorbeeld:
@@ -199,4 +199,4 @@ https://github.com/progsen/M6-PROG-2023-2024/tree/main/03%20json
 
 > ![](img/opdrachten.PNG)
 
-</section>
+
