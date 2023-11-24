@@ -5,8 +5,8 @@
     - van een http server
 
 - Dan versturen we dus:
-    - Http request 
-    - en krijgen een Response
+    - `HTTP Request` 
+    - en krijgen een `HTTP Response`
 
 ## Voorbeelden
 
