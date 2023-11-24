@@ -27,4 +27,3 @@ fetch("get.html")
 
 
 <a href="03 Fetch6.md" >Next</a>
-\

@@ -38,5 +38,5 @@ fetch("get.php")
 > - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
 
-<a href="03 Fetch7.md" >Next</a>
+<a href="03 Fetch8.md" >Next</a>
 
