@@ -99,7 +99,7 @@ function (response)
 
 # En de data dan?
 
-- Nu zien we alleen de HTTPResponse
+- Nu zien we alleen de `HTTPResponse`
     - Niet wat erin zit
     - En wij willen wat erin zit gebruiken
 
