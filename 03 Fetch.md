@@ -1,3 +1,4 @@
+
 # Fetch
 
 - `Fetch` is een `api` in javascript om ergens informatie vandaan te halen.

@@ -29,4 +29,3 @@ function (response)
 
 
 
-<a href="03 Fetch5.md" >Next</a>

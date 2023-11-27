@@ -1,11 +1,30 @@
 
 
+# POST & Fetch options
 
-## Opdracht voor deze week:
+- vaak gebruiken we `fetch` om een `HTTP POST`
+    - dan moeten we in de `options` meegeven wat we willen:
+
+ ```JS
+ let options = 
+{
+  method: "POST", 
+  cache: "no-cache",
+  headers: { "Content-Type": "application/json" }
+}
+
+fetch("post.php",options)
+.then((response)=>
+{
+  console.log(response);
+});
+
+ ```
 
 
-https://github.com/progsen/M6-PROG-2023-2024/tree/main/03%20json
 
-> ![](img/opdrachten.PNG)
+## POST
 
-
+- wordt gebruikt om veel data door te geven bijvoorbeeld:
+    - contact formulieren
+    - uploads van images

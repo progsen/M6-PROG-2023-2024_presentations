@@ -21,5 +21,3 @@ fetch("URL")
 > - tussen de `()` van `fetch` komt je `url` als `string`
 >   - bijvoorbeeld: `"get.html"`
 
-
-<a href="03 Fetch3.md" >Next</a>
