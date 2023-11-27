@@ -81,7 +81,8 @@ fetch("URL")
 - Wat betekent dit nou eigenlijk?
 ```JS
 (response)=> //  1 argument 
-{//hier begint de function body
+{
+  //hier begint de function body
   console.log(response);//wat je doet
 }
 ```
