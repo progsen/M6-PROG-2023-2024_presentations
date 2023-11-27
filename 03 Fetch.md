@@ -1,6 +1,4 @@
-
-
-## Fetch
+# Fetch
 
 - `Fetch` is een `api` in javascript om ergens informatie vandaan te halen.
     - van het `netwerk`
@@ -21,7 +19,7 @@
 
 
     
-## Fetch uitleg
+# Fetch uitleg
 
 - `Fetch` is `async` dat betekent:
     - Je laat je code uitvoeren
@@ -43,7 +41,7 @@ fetch("URL")
 
 
 
-## STEL
+# STEL
 
 - we hebben dus die `get.html`
     - Die we willen ophalen:  
@@ -69,7 +67,7 @@ fetch("URL")
 
 
 
-## hoe werkt de .then()?
+# hoe werkt de .then()?
 
 > - `.then` is een `function`
 >     - met `1 argument`: een andere `function`
@@ -97,7 +95,7 @@ function (response)
 
 
 
-## En de data dan?
+# En de data dan?
 
 - Nu zien we alleen de HTTPResponse
     - Niet wat erin zit
@@ -122,7 +120,7 @@ fetch("get.html")
 
 
 
-## PHP
+# PHP
 
 - je kan ook tegen PHP praten:
 
@@ -161,7 +159,7 @@ fetch("get.php")
 
 
 
-## POST & Fetch options
+# POST & Fetch options
 
 - vaak gebruiken we `fetch` om een `HTTP POST`
     - dan moeten we in de `options` meegeven wat we willen:
@@ -192,7 +190,7 @@ fetch("post.php",options)
 
 
 
-## Opdracht voor deze week:
+# Opdracht voor deze week:
 
 
 https://github.com/progsen/M6-PROG-2023-2024/tree/main/03%20json
