@@ -135,7 +135,7 @@ echo "Hello fetch!";
 ?>
 ```
 
-- Dan `verander` je de url
+- Dan `verander` je de url van je fetch
 ```JS
 fetch("get.php")
 .then((response)=>
